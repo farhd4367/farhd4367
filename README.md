@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Fahdi 👋
 
-<!--
-**farhd4367/farhd4367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PHP / Laravel Developer
 
-Here are some ideas to get you started:
+Backend Developer with 5+ years of experience building scalable web applications, REST APIs, authentication systems, and third-party integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- PHP
+- Laravel
+- MySQL / PostgreSQL
+- Node.js
+- REST APIs
+- JWT Authentication
+- Azure AD Integration
+- AWS
+- Docker
+- Git
+
+### Featured Projects
+
+#### Document Management System
+- Laravel API
+- PDF Processing & Digital Signatures
+- QR Code Integration
+
+#### Authentication Platform
+- Azure AD SSO
+- NextAuth.js
+- JWT Authentication
+
+### Contact
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- GitHub: https://github.com/farhd4367
+- Email: your-email@example.com
