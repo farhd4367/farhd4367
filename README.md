@@ -1,262 +1,97 @@
-# Hi, I'm Farhad Khan 👋
+# Hi there, I'm Farhad Khan 👋 
+### Senior Full-Stack Developer | Laravel & PHP Specialist | Node.js & React.js
 
-## Full Stack Developer | Laravel | PHP | Node.js | React.js
-
-📍 Riyadh, Saudi Arabia
-📧 farhd4367@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/farhadullah09943/
-💻 GitHub: https://github.com/farhd4367
+Building scalable, secure, and enterprise-grade web applications. Currently based in Riyadh, Saudi Arabia, with extensive experience delivering compliance-focused architectures, digital signature workflows, and comprehensive ERP systems.
 
 ---
 
-## About Me
+### 🌐 Connect With Me
 
-Full Stack Developer with 5+ years of experience designing, developing, and deploying scalable web applications and enterprise solutions.
-
-Specialized in Laravel, PHP, Node.js, React.js, REST APIs, Authentication Systems, Digital Signatures, ERP Development, and Cloud-Based Architectures.
-
-Experienced in building secure, high-performance systems for government organizations, educational institutions, and private enterprises.
-
----
-
-## Technical Skills
-
-### Backend
-- PHP
-- Laravel
-- Node.js
-- REST API Development
-- JWT Authentication
-- OAuth & Azure AD Integration
-- Microservices Architecture
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- Oracle SQL
-
-### Frontend
-- React.js
-- JavaScript
-- jQuery
-- AJAX
-- Bootstrap
-- HTML5
-- CSS3
-
-### DevOps & Cloud
-- Docker
-- Git
-- Azure
-- AWS
-- Linux Hosting
-- CI/CD
-
-### Security
-- Authentication & Authorization
-- Role Based Access Control (RBAC)
-- API Security
-- Digital Signatures
-- PDF Verification
+<p align="left">
+  <a href="mailto:farhd4367@gmail.com"><img src="https://img.shields.io/badge/Email-farhd4367%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/farhadullah09943/"><img src="https://img.shields.io/badge/LinkedIn-Farhad%20Khan-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/farhd4367"><img src="https://img.shields.io/badge/GitHub-farhd4367-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="⚙️_📍_Riyadh,_Saudi_Arabia-blue?style=flat-square"><img src="https://img.shields.io/badge/Location-Riyadh,%20Saudi%20Arabia-red?style=flat-square&logo=google-maps" alt="Location"/></a>
+</p>
 
 ---
 
-# Professional Experience
+### 🚀 About Me
 
-## Full Stack Web Developer
-### Haat Global & IT Communication
-Riyadh, Saudi Arabia
-Mar 2024 – Present
-
-### Key Achievements
-
-- Developed backend APIs and frontend modules for HaatSign Digital Signature Platform.
-- Implemented secure PDF signing and verification workflows.
-- Built document archival and validation systems.
-- Optimized API performance by 30%.
-- Worked on compliance-focused government solutions.
+- 💻 **Core Expertise:** 5+ years of professional engineering experience specializing in **Laravel**, **PHP**, **Node.js**, and **React.js**.
+- 🛠️ **System Architecture:** Proven track record designing RESTful APIs, JWT/OAuth integrations, Microservices, and complex financial/ERP databases.
+- 🔐 **Security Focus:** Deeply experienced in building security-first applications featuring Role-Based Access Control (RBAC), digital signatures, PDF verification protocols, and data compliance standards.
+- 💼 **Domain Knowledge:** Delivering robust production systems across FinTech, ERP automation, E-Government, and EdTech sectors.
 
 ---
 
-## Full Stack Developer
-### Baramdat Solutions
-Feb 2023 – Jan 2024
+### 🛠️ Technical Ecosystem
 
-### Key Achievements
-
-- Led development of Camp Portal & Reservation System.
-- Built Laravel APIs and React.js frontend.
-- Automated scheduling and reporting workflows.
-- Improved operational efficiency by 25%.
-
----
-
-## Laravel Developer
-### Silver Concepts LLC
-Dec 2021 – Jan 2023
-
-### Key Achievements
-
-- Developed University Management System.
-- Built Hostel, Library, HR and Transport Modules.
-- Created APIs for cross-department synchronization.
-- Supported over 5000 active users.
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend & Core** | `PHP` `Laravel` `Node.js` `RESTful APIs` `JWT` `OAuth` `Azure AD` |
+| **Frontend** | `React.js` `JavaScript (ES6+)` `jQuery` `AJAX` `Bootstrap` `HTML5 / CSS3` |
+| **Databases** | `MySQL` `PostgreSQL` `MongoDB` `Oracle SQL` |
+| **DevOps & Cloud** | `Docker` `Git & GitHub Actions` `AWS` `Azure` `Linux Hosting` `CI/CD Pipelines` |
+| **Security & Compliance** | `API Auditing` `RBAC` `Digital Signatures (TCPDF/FPDF)` `PDF Verification & Hashing` |
 
 ---
 
-# Featured Projects
+### 📈 Professional Journey
 
-## HaatSign Digital Signature Platform
+#### **Full Stack Web Developer** | Haat Global & IT Communication *(Riyadh, Saudi Arabia)*
+*March 2024 – Present*
+* Core engineer for **HaatSign**, an enterprise digital signature platform tailored for secure corporate and government workflows.
+* Engineered secure, high-performance backend APIs and integrated frontend modules for cryptographic PDF signing, validation, and archival.
+* **Impact:** Optimized critical API performance metrics by **30%** while ensuring rigid compliance with local document-security standards.
 
-Enterprise-grade digital signature platform developed for government organizations.
+#### **Full Stack Developer** | Baramdat Solutions
+*February 2023 – January 2024*
+* Spearheaded the end-to-end architecture of a large-scale Camp Portal & Reservation System using Laravel and React.js.
+* Automated high-concurrency scheduling, logistical coordination, and automated reporting engines.
+* **Impact:** Reduced administrative overhead and improved operational efficiency by **25%**.
 
-### Features
-
-- Digital PDF Signing
-- Signature Verification
-- Audit Trail Management
-- QR Code Validation
-- Document Security
-- Workflow Automation
-
-### Technologies
-
-Laravel • PHP • MySQL • REST APIs
-
----
-
-## Stack-Fin ERP
-
-Complete ERP solution developed from scratch.
-
-### Modules
-
-- Inventory Management
-- Procurement
-- Sales
-- Purchases
-- Financial Accounting
-- Reporting
-- RBAC
-
-### Features
-
-- Double Entry Accounting
-- Profit & Loss Reports
-- Ledger Management
-- Expense Tracking
-
-### Technologies
-
-PHP • MySQL • JavaScript
+#### **Laravel Developer** | Silver Concepts LLC
+*December 2021 – January 2023*
+* Developed a modular, high-availability University Management System encompassing HR, Library, Transport, and Hostel ecosystems.
+* **Impact:** Built scalable cross-departmental synchronization APIs supporting **5,000+ continuous active users**.
 
 ---
 
-## Camp Portal & Reservation System
+### 💻 Featured Production Projects
 
-Complete camp management platform.
+#### 🖋️ [HaatSign Digital Signature Platform](https://github.com/farhd4367)
+*Enterprise-grade cryptographic signature ecosystem developed for secure organizational workflows.*
+* **Tech Stack:** Laravel, PHP, MySQL, REST APIs, Cryptographic Hashing.
+* **Highlights:** Secure PDF link/stamp embedding, secure QR-code generation, and automated tamper-proof audit trails.
 
-### Features
+#### 📊 [Stack-Fin ERP](https://github.com/farhd4367)
+*A ground-up, multi-tenant Enterprise Resource Planning application built to handle complex corporate workflows.*
+* **Tech Stack:** Core PHP, MySQL, JavaScript, Advanced SQL.
+* **Modules:** Double-Entry Accounting, Procurement, Live Inventory Management, Sales, Real-Time P&L Reporting, and custom RBAC matrices.
 
-- Accommodation Management
-- Meal Planning
-- Reservation Tracking
-- Feedback Collection
-- Analytics Dashboard
-
-### Technologies
-
-Laravel • React.js • MySQL
-
----
-
-## University Management System
-
-Centralized academic management platform.
-
-### Modules
-
-- Student Management
-- Faculty Management
-- HR
-- Library
-- Hostel
-- Transport
-
-### Technologies
-
-Laravel • MySQL • REST APIs
+#### ⛺ [Camp Portal & Reservation System](https://github.com/farhd4367)
+*A high-traffic administrative dashboard managing physical camp logistical structures.*
+* **Tech Stack:** Laravel, React.js, MySQL, REST APIs.
+* **Highlights:** Automated real-time meal planning engines, dynamic accommodation matrix allocation, and customer analytics.
 
 ---
 
-## ApplyUpp
+### 🎓 Education & Credentials
 
-Student admissions management platform.
-
-### Features
-
-- Admission Tracking
-- Notifications
-- Dashboards
-- Reporting
+* **Bachelor of Science in Computer Science (BSCS)** – Abdul Wali Khan University Mardan *(2017 - 2021)*
+* **Developing Microsoft Azure and Web Services** – KPITB Certified
+* **Full Stack Web Development** – UNDP Pakistan Certified
 
 ---
 
-## Future Deals UAE
+### 🤝 Let's Collaborate
 
-Digital franchise and investment platform.
+I am actively looking for challenging career opportunities, consulting contracts, and technical collaborations.
 
-### Features
+- **Available For:** Senior Full-Stack Roles, Backend Architect Positions, Dedicated Contract/Freelance Projects, Remote Positions.
+- **Let's Talk:** If you are looking to build secure, highly efficient, and maintainable systems, drop me an email at **farhd4367@gmail.com**.
 
-- Franchise Management
-- Investor Matching
-- Communication Portal
-- Business Tracking
-
----
-
-## Baladi Express Qatar
-
-E-commerce platform.
-
-### Features
-
-- Product Catalog
-- Inventory Management
-- Order Processing
-- Payment Integration
-
----
-
-# Certifications
-
-### Developing Microsoft Azure and Web Services
-KPITB
-
-### Web Development
-UNDP Pakistan
-
----
-
-# Education
-
-Bachelor of Science (Computer Science)
-
-Abdul Wali Khan University Mardan
-
-2017 - 2021
-
----
-
-## Open To
-
-✔ Full Stack Developer Roles
-
-✔ Senior Laravel Developer Roles
-
-✔ Backend Developer Roles
-
-✔ Remote Opportunities
-
-✔ Contract/Freelance Projects
+<p align="center">
+  <sub>Generated with ❤️ by Farhad Khan. Powered by Laravel, Built for Scale.</sub>
+</p>
