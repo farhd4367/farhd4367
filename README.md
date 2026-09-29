@@ -17,14 +17,17 @@
 
 ## 🧠 About Me
 
-> 5+ years of hands-on experience architecting, developing, and deploying high‑impact web applications and enterprise systems.
+> Full-Stack Developer with 5+ years of experience building secure, scalable web applications and enterprise platforms.
 
-- 🏢 Specialized in **Laravel, PHP, Node.js, React.js, REST APIs**, and **Cloud‑Based Architectures**.
-- 🔐 Proven track record delivering secure, compliant solutions for **government, education, and private sector** clients.
-- ✍️ Expert in **Digital Signatures, PDF Verification, Authentication Systems** (JWT, OAuth, Azure AD) and **Role‑Based Access Control**.
-- ⚡ Passionate about clean code, performance optimization, and building systems that scale.
+* 🏢 Specialized in **Laravel, PHP, Node.js, React.js, Next.js, REST APIs**, and backend architecture.
+* 🔐 Experienced in **security, authentication, RBAC, JWT, API integrations**, and compliance-focused systems.
+* ✍️ Experienced in **digital signatures, PDF workflows, CA/PKI certificates**, and document management platforms.
+* 🔗 Worked with integrations including **ZATCA, HyperPay, Wathq, and Nafath**.
+* 🤖 Building **AI-powered applications**, including CV analysis, CV generation, and AI career assistants.
+* ⚡ Focused on clean architecture, maintainable code, reliable APIs, and production-ready systems.
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -88,11 +91,11 @@
 **Haat Global & IT Communication** — Riyadh, Saudi Arabia  
 *Mar 2024 – Present*
 
-- 🚀 Engineered backend APIs and interactive frontend modules for the **HaatSign Digital Signature Platform**.
-- 🔏 Implemented end‑to‑end secure **PDF signing and verification workflows** for government compliance.
-- 📁 Built robust document archival, validation systems, and comprehensive audit trails.
-- ⚡ Optimized API performance, reducing response times by **30%**.
-- 🛡️ Delivered high‑security solutions aligned with strict regulatory requirements.
+- 🚀 Developed and maintained HaatSign, a secure digital signature and document management platform serving government and enterprise clients.
+- 🔏 Built secure PDF signing, verification, certificate management, and document workflows with comprehensive audit trails.
+- 🔗 Integrated ZATCA, HyperPay, Wathq, Nafath, and CA/PKI certificate services for secure authentication, payments, business verification, and digital signing.
+- 🛡️ Implemented JWT authentication, RBAC, permissions, secure APIs, and security controls for sensitive documents and user data.
+- ⚡ Developed scalable REST APIs and asynchronous processing workflows to support reliable production workloads.
 
 ### Full Stack Developer  
 **Baramdat Solutions**  
@@ -120,16 +123,36 @@
 <tr>
 <td width="50%">
 
-### 🖊️ HaatSign Digital Signature Platform  
-*Enterprise‑grade digital signature solution for government entities*
+### 🖊️ HaatSign — Digital Signature & Document Management Platform
 
-- Digital PDF Signing & Verification  
-- QR Code Validation  
-- Immutable Audit Trail  
-- Workflow Automation  
-- Document Security & Archival  
+*Enterprise-grade digital signature platform for government and enterprise clients*
 
-**Tech:** `Laravel` `PHP` `MySQL` `REST APIs`
+* 🔏 Secure PDF signing, verification, and document workflows
+* 📜 Digital certificate management using **CA/PKI certificate services**
+* 🔐 JWT authentication, RBAC, permissions, and security controls
+* 🔗 **ZATCA, HyperPay, Wathq, and Nafath** integrations
+* 📋 Comprehensive audit trails and document validation
+* ⚙️ Workflow automation and asynchronous document processing
+* 🛡️ Secure document storage, archival, and compliance-focused workflows
+
+**Tech:** `Laravel` `PHP` `MySQL` `React.js` `REST APIs` `JWT` `Docker`
+
+
+</td>
+<td width="50%">
+  ### 🤖 AI CV Maker & Job Board
+
+*AI-powered career platform for CV creation, job discovery, and career assistance*
+
+- 📄 AI-assisted CV creation, enhancement, and content generation
+- 🧠 Integrated a custom **AI project** for CV analysis and intelligent recommendations
+- 💬 AI career assistant for personalized job and CV guidance
+- 💼 Job posting, search, filtering, and application management
+- 👤 User profiles, authentication, and CV management
+- 🔗 RESTful APIs connecting the Laravel backend with the Next.js frontend
+- ⚡ Scalable architecture designed for AI-powered career services
+
+**Tech:** `Laravel` `PHP` `Next.js` `React` `MySQL` `REST APIs` `AI`
 
 </td>
 <td width="50%">
