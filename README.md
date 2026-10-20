@@ -87,15 +87,18 @@
 
 ## 💼 Professional Experience
 
-### Full Stack Web Developer  
+### 💼 Full Stack Web Developer
 **Haat Global & IT Communication** — Riyadh, Saudi Arabia  
 *Mar 2024 – Present*
 
-- 🚀 Developed and maintained HaatSign, a secure digital signature and document management platform serving government and enterprise clients.
-- 🔏 Built secure PDF signing, verification, certificate management, and document workflows with comprehensive audit trails.
-- 🔗 Integrated ZATCA, HyperPay, Wathq, Nafath, and CA/PKI certificate services for secure authentication, payments, business verification, and digital signing.
-- 🛡️ Implemented JWT authentication, RBAC, permissions, secure APIs, and security controls for sensitive documents and user data.
-- ⚡ Developed scalable REST APIs and asynchronous processing workflows to support reliable production workloads.
+- 🚀 Developed and maintained **HaatSign**, a secure digital signature and document management platform for government and enterprise clients.
+- 🔏 Implemented secure PDF signing, signature verification, certificate management, and document workflows with comprehensive audit trails.
+- 🔗 Integrated **ZATCA, HyperPay, Wathq, Nafath, CA/PKI gateways, and HSM-based certificate services** for digital signing, authentication, and business operations.
+- 🛡️ Implemented **JWT authentication, RBAC, granular permissions, secure REST APIs, and certificate protection** to safeguard sensitive documents and user data.
+- ⚡ Developed scalable APIs, webhooks, and asynchronous processing workflows for reliable production operations.
+- 🔐 Applied security best practices to protect document integrity, maintain confidentiality, prevent unauthorized access, and strengthen digital signing workflows.
+
+**Technologies:** PHP, Laravel, React.js, MySQL, REST APIs, Docker, JWT, PKI, CA Gateways, HSM Integration, ZATCA APIs
 
 ### Full Stack Developer  
 **Baramdat Solutions**  
